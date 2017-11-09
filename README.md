@@ -1,3 +1,7 @@
+<p align="center">
+  <a href="https://chrome.google.com/webstore/detail/amazon-sort-number-of-rev/hepimngelnnmpbpklphhbbmalefoploi" target="_blank"><img src="https://user-images.githubusercontent.com/7617209/32630301-0c7da468-c551-11e7-9052-03f9aac5b343.jpg"/></a>
+</p>
+
 # Amazon™ Sort - Number of Reviews
 Sort results on Amazon™ by number of reviews!
 
