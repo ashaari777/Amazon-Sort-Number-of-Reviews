@@ -7,6 +7,8 @@ Sort results on Amazon™ by number of reviews!
 
 This is the source code for the Chrome Amazon™ Sort - Number of Reviews extension found [here](https://chrome.google.com/webstore/detail/amazon-sort-number-of-rev/hepimngelnnmpbpklphhbbmalefoploi).
 
+The Firefox version can be found [here](https://addons.mozilla.org/en-US/firefox/addon/amazon-sort-number-reviews/).
+
 # Want to help out?
 Report an issue, leave suggestions, or create a pull request!
 
