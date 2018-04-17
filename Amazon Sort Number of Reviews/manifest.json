@@ -10,6 +10,7 @@
 		"matches": ["*://www.amazon.com/*",
 			"*://smile.amazon.com/*",
 			"*://www.amazon.co.uk/*",
+			"*://www.amazon.co.jp/*",
 			"*://www.amazon.ca/*",
 			"*://www.amazon.de/*",
 			"*://www.amazon.it/*",
