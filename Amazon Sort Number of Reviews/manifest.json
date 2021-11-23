@@ -17,7 +17,8 @@
 			"*://www.amazon.es/*",
 			"*://www.amazon.fr/*",
 			"*://www.amazon.com.br/*",
-			"*://www.amazon.in/*"],
+			"*://www.amazon.in/*",
+			"*://www.amazon.sa/*"],
 		"js": ["amazon.js"],
 		"run_at": "document_start"
 	}]
